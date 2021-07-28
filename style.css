@@ -1,0 +1,12 @@
+body {
+  background: url(https://images.pexels.com/photos/459301/pexels-photo-459301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-color: cover;
+}
+
+.font {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 25px;
+  text-align: center;
+  border: 8px solid lightpink;
+  letter-spacing: 4px;
+}
